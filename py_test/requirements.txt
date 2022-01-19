@@ -1,0 +1,8 @@
+pytest
+pytest-html              #生成htm格式的目动化测试报告
+pytest-xdist			 #测试用例分布式执行。多CPU分发
+pytest-ordering			 #用于改变测试用例的执行顺序
+pytest-rerunfailures	 #用例失败后重跑
+allure-pytest			 #用于生成美观的测试报告
+#pip install -u pytest
+#pip install -r *.txt
